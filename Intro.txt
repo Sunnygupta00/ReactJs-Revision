@@ -1,0 +1,4 @@
+React basic setup:
+npm create vite@latest
+npm install // for installing packages
+npm run dev // for runing the app
